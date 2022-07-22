@@ -16,7 +16,7 @@ Through this analysis, I ultimately recommended 2 properties based off their pri
 
 Using a conda environment from anaconda is preferable.
 
-To view it, just open it up in GitHub. Alternatively, you can download it & open it with Jupyter Lab or some program that can run .ipynb files (e.g. VS Code using some extensions/add-ons). The cells have already been run.
+To view it, just open it up in GitHub. If you can't see the hvplots, you should download the repository & open it with Jupyter Lab or some program that can run .ipynb files (e.g. VS Code using some extensions/add-ons). The cells should have already been run. If some haven't been run, then restart the kernel and run all the cells.
 
 ---
 
